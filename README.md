@@ -7,11 +7,13 @@ Installer les dépendances
     pip install -r requirements.txt
 
 
+J'ai rendu ces projets sous forme de notebooks
+
 Le projet contient en réalité deux petits projets : 
 
-- Le premier est un fineTuning de Yolo. Ce n'est pas réellement un projet Pyhton, mais il m'a permis d'utilsier l'outil de labelling Labelimg pour ce modèle.
+- Le premier est un fineTuning de Yolo. Ce n'est pas réellement un projet Pyhton, mais il m'a permis d'utiliser l'outil de labelling Labelimg pour ce modèle (main.ipynb)
 
-- Le second projet est également un finetuning mais cette fois ci de : fasterrcnn_resnet50_fpn
+- Le second projet est également un finetuning mais cette fois ci de : fasterrcnn_resnet50_fpn (RCNN_Resnet50.ipynb)
 
 
 Je me suis dirigé vers cette logique car ce genre de modèle à déjà de très bonne performances et l'adapter sur nos données est à mon sens la bonne démarche. En effet l'exercice de détection (et eventuellement classification) est un exercice classique et ce genre de modèle répondent parfaitement au cahier des charges. 

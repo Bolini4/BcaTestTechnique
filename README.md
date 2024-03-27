@@ -22,7 +22,7 @@ Je me suis dirigé vers cette logique car ce genre de modèle à déjà de très
 Cependant les performances du modèle sont relativement faibles. En fonction des entrainements nous avons des performances assez faibles voire médiocres. 
 
 
-Je n'avais encore jamais réalise de modèle de détection, mais j'ai trouvé ce projet intéressant ! 
+Je n'avais encore jamais réalisé de modèle de détection, mais j'ai trouvé ce projet intéressant ! 
 
 
 En travaillant de manière assez régulière j'estime ma durée de travail à environ 8-10h

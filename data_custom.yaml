@@ -1,0 +1,6 @@
+train: F:\Programmation\IA\TestBCA\train
+val: F:\Programmation\IA\TestBCA\val
+
+nc: 1
+
+names : ["front door"]

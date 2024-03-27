@@ -3,7 +3,11 @@ test technique pour  BCA
 
 
 Installer les dépendances 
+<<<<<<< HEAD
     pip install -r requirements.txt
+=======
+pip install -r requirements.txt
+>>>>>>> ea884449a839ddcba63d97562189c9a35dcd2807
 
 
 Le projet contient en réalité deux petits projets : 
